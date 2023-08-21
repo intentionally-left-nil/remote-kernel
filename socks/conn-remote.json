@@ -1,0 +1,12 @@
+{
+  "shell_port": 10,
+  "iopub_port": 11,
+  "stdin_port": 12,
+  "control_port": 13,
+  "hb_port": 14,
+  "ip": "/home/anil/projects/remote-kernel/socks/conn-ipc",
+  "key": "",
+  "transport": "ipc",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": ""
+}

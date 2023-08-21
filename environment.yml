@@ -1,0 +1,77 @@
+name: kernel
+dependencies:
+  - python=3.11
+  - jupyterlab=4
+  - astropy
+  - beautifulsoup4
+  - blas 1.0 openblas
+  - bokeh >=3.1.1
+  - curl
+  - dask
+  - datashader
+  - flask
+  - gensim
+  - h5py
+  - holoviews >=1.16.0
+  - hvplot >=0.8.3
+  - imbalanced-learn
+  - intake
+  - intel-openmp
+  - ipython
+  - jq
+  - jupyter
+  - matplotlib
+  - mkl >=2021
+  - mkl-service
+  - nbconvert
+  - networkx
+  - nltk
+  - notebook
+  - numba
+  - numpy
+  - openpyxl
+  - pandas
+  - panel >=1.0.3
+  - pep8
+  - pillow
+  - pip
+  - plotly
+  - pycurl
+  - pyflakes
+  - pylint
+  - pyodbc
+  - pytables
+  - pytest
+  - python
+  - pyviz_comms >=2.3.0
+  - pywavelets
+  - requests
+  - scikit-image
+  - scikit-learn
+  - scikit-learn-intelex
+  - scipy
+  - scrapy
+  - seaborn
+  - setuptools
+  - snowballstemmer
+  - spyder
+  - sqlalchemy
+  - statsmodels
+  - sympy
+  - tabulate
+  - tbb4py
+  - transformers
+  - unixodbc
+  - wheel
+  - altair
+  - fastparquet
+  - intake-xarray
+  - intake-parquet
+  - ipywidgets
+  - s3fs
+  - pip:
+      - anaconda-catalogs
+
+channels:
+  - conda-forge
+  - defaults

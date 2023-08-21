@@ -1,0 +1,6 @@
+services:
+  kernel:
+    build:
+      context: .
+    volumes:
+      - ./socks:/root/socks
